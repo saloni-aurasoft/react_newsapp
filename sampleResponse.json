@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "The Moscow Times"
+    },
+    "author": "The Moscow Times",
+    "title": "47K Russian Troops Killed in Ukraine – Report - The Moscow Times",
+    "description": "At least 47,000 Russian troops have been killed fighting in Ukraine, the independent news outlets Mediazona and Meduza reported in an investigation published Monday.",
+    "url": "https://www.themoscowtimes.com/2023/07/10/47k-russian-troops-killed-in-ukraine-report-a81783",
+    "urlToImage": "https://static.themoscowtimes.com/image/og/95/81783__95f17c1aabc6396443c61dada8e40055.jpg",
+    "publishedAt": "2023-07-10T06:56:00Z",
+    "content": "At least 47,000 Russian troops have been killed fighting in Ukraine, the independent news outlets Mediazona and Meduza reported in an investigation published Monday.\r\nCiting data from Russia’s nation… [+1435 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "East Idaho News"
+    },
+    "author": null,
+    "title": "A solar storm on Thursday is expected to make the northern lights visible in 17 states - East Idaho News",
+    "description": "BOULDER, Colorado (KSL.com) — A solar storm forecast for Thursday is expected to give sky gazers in 17 American states a chance to glimpse the northern lights, the colorful sky show that happens when solar wind hits the atmosphere. Northern lights, also known…",
+    "url": "https://www.eastidahonews.com/2023/07/a-solar-storm-on-thursday-is-expected-to-make-the-northern-lights-visible-in-17-states/",
+    "urlToImage": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2023/07/northern-lights.jpg",
+    "publishedAt": "2023-07-10T01:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Sophia Barkoff, Margaret Brennan, Olivia Gazis",
+    "title": "Ukraine is seeking commitments from NATO at upcoming Vilnius summit. Are allies willing to give them? - CBS News",
+    "description": "The alliance's unity may be newly tested as divisions over the type of assurances made to Ukraine regarding its future membership become starker.",
+    "url": "https://www.cbsnews.com/news/ukraine-nato-commitment-vilnius-lithuania-summit-biden/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/09/6c7e083f-3458-4383-951c-08b0b7dfd32a/thumbnail/1200x630/f58f540266dfddf56093cdaa57f09c7e/ap23190384676721.jpg?v=532947bbe7449b367b963713a282edbc",
+    "publishedAt": "2023-07-09T23:19:00Z",
+    "content": "As world leaders prepare to gather this week for a much-anticipated NATO summit in Vilnius, Lithuania, the alliance's unity may be newly tested as divisions over the type of assurances made to Ukrain… [+5053 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PBS"
+    },
+    "author": null,
+    "title": "Why many Americans use unregulated health care sharing plans - PBS NewsHour",
+    "description": "Many Americans have enrolled in an alternative to traditional health insurance called health care sharing plans. But unlike insurance, these plans are unregulated and don’t have to meet minimum health benefits mandated by the Affordable Care Act. Kate Harris …",
+    "url": "https://www.pbs.org/newshour/show/why-many-americans-are-paying-each-others-medical-bills-despite-the-risks",
+    "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/07/costsharing-1024x681.jpg",
+    "publishedAt": "2023-07-09T21:40:43Z",
+    "content": "Many Americans have enrolled in an alternative to traditional health insurance called health care sharing plans. But unlike insurance, these plans are unregulated and dont have to meet minimum health… [+191 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WKMG News 6 & ClickOrlando"
+    },
+    "author": "Jerry Askin",
+    "title": "World War II-era tugboat returns to Central Florida birthplace - WKMG News 6 & ClickOrlando",
+    "description": "A historic tugboat built in DeLand in 1944 has made its final voyage back into Volusia County after being in Europe for 79 years.",
+    "url": "https://www.clickorlando.com/traffic/2023/07/09/world-war-ii-era-tugboat-returns-to-central-florida-birthplace/",
+    "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/07-09-2023/t_594b101e298442468311c2f6d53060a8_name_image.jpg?_a=ATAPphC0",
+    "publishedAt": "2023-07-09T18:43:47Z",
+    "content": "VOLUSIA COUNTY, Fla. A historic tugboat built in DeLand in 1944 has made its final voyage back into Volusia County after being in Europe for 79 years.\r\nDan Friend, president of the nonprofit DeLand H… [+1747 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Pcguide.com"
+    },
+    "author": "Rory Greig",
+    "title": "Save $300 on Sony 65 Inch 4K Ultra HD TV X90K Series – Prime Day early deal - PC Guide - For The Latest PC Hardware & Tech News",
+    "description": "Here's a great early Prime Day deal that offers you a $300 discount on a brilliant 4K TV, meaning you can elevate your set-up for cheap.",
+    "url": "https://www.pcguide.com/deals/save-300-on-sony-65-inch-4k-ultra-hd-tv-x90k-series-prime-day-early-deal/",
+    "urlToImage": "https://www.pcguide.com/wp-content/uploads/2023/07/Save-300-on-Sony-65-Inch-4K-Ultra-HD-TV-X90K-Series-–-Prime-Day-early-deal.jpg",
+    "publishedAt": "2023-07-09T10:59:12Z",
+    "content": null
+    }
+    ]
+    }
